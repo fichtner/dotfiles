@@ -1,0 +1,9 @@
+[color]
+	diff = true
+[user]
+	name = Franco Fichtner
+	email = franco@lastsummer.de
+[push]
+	default = simple
+[alias]
+	feed = log --reverse ...ORIG_HEAD
